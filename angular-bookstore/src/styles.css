@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face {
+  font-family: "Baloo Bhaina 2";
+  src: url(/assets/fonts/Baloo_Bhaina_2/BalooBhaina2-Regular.ttf)
+    format("truetype");
+}
+
+body {
+  font-family: "Baloo Bhaina 2";
+}
